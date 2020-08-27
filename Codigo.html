@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta http-equiv="Content-Type" content="charset=UTF-8">
+	<title>Meu código em python</title> 
+</head>
+<body>
+	<h1>Cálculo médio de download em Python 3</h1>
+	<pre><code>
+mb = float(input("Digite o tamanho do arquivo, em Gb: "))
+vel = float(input("Digite a velocidade da internet, em mb/s: "))
+tempo = (mb * 1000) // vel
+horas = tempo // 3600
+resto = tempo % 3600
+minutos = resto // 60
+segundos = resto % 60
+
+print(horas, "horas,", minutos, "minutos e", segundos, "segundos")
+	</pre></code>
+</body>
+</html>
