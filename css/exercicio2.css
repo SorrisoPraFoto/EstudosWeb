@@ -1,0 +1,19 @@
+div {
+	width: 2000px;
+	height: 600px;
+}
+
+#div1 {
+	background-image: url("https://3.bp.blogspot.com/-1-EI-hYRRqc/Xd2zFunH65I/AAAAAAAARyU/9lC8yiPTk04zG8t5lIbIc3A-tIwqKxBvwCLcBGAsYHQ/w914-h514-p-k-no-nu/sunrise-illustration-digital-art-uhdpaper.com-4K-4.1963-wp.thumbnail.jpg");
+	background-repeat: no-repeat;
+}
+
+#div2 {
+	background-color: yellow;
+	background-clip: padding-box;
+}
+
+#div3 {
+	background-image: url("https://images4.alphacoders.com/936/936378.jpg");
+	background-repeat: no-repeat;
+}
