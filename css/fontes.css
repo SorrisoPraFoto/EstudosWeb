@@ -1,0 +1,13 @@
+@font-face{
+	font-family: 'BLD';
+	src: url('fonte.ttf');
+}
+
+p{
+	font-family: 'BLD';
+	font-size: 50px;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	font-weight: bold;
+}

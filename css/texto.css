@@ -1,0 +1,8 @@
+p{
+	color: blue;
+	text-align: left;
+	text-transform: capitalize;
+	text-indent: 10px;
+	letter-spacing: 1px;
+	text-shadow: 0px 2px 5px blue;
+}

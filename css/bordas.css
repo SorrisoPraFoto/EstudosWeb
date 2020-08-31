@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'BDR';
+	src: url(love.ttf);
+}
+
+p{
+	font-family: 'BDR';
+	font-size: 50px;
+	text-align: center;
+	margin: 10px;
+	padding: 20px;
+	border: 7px solid black;
+	border-radius: 30px;
+}
