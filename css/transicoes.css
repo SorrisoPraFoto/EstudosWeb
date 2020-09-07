@@ -1,0 +1,9 @@
+p{
+	text-align: center;
+	height: 100px;
+	transition: 1s ease-in-out;
+}
+
+p:hover{
+	transform: scale(4, 4) rotate(360deg);
+}
